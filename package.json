@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/YoussefAyachi95/react-miniprojects/issues"
   },
-  "homepage": "https://github.com/YoussefAyachi95/react-miniprojects#readme"
+  "homepage": "https://github.com/YoussefAyachi95/react-miniprojects#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
 }
